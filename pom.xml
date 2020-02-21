@@ -7,7 +7,6 @@
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
   <name>Parent</name>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 
